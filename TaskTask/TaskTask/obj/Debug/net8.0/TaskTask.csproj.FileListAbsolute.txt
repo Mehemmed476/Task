@@ -1,0 +1,14 @@
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/bin/Debug/net8.0/TaskTask
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/bin/Debug/net8.0/TaskTask.deps.json
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/bin/Debug/net8.0/TaskTask.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/bin/Debug/net8.0/TaskTask.dll
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/bin/Debug/net8.0/TaskTask.pdb
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/obj/Debug/net8.0/TaskTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/obj/Debug/net8.0/TaskTask.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/obj/Debug/net8.0/TaskTask.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/obj/Debug/net8.0/TaskTask.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/obj/Debug/net8.0/TaskTask.dll
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/obj/Debug/net8.0/refint/TaskTask.dll
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/obj/Debug/net8.0/TaskTask.pdb
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/obj/Debug/net8.0/TaskTask.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/TaskTask/TaskTask/obj/Debug/net8.0/ref/TaskTask.dll
